@@ -43,6 +43,20 @@ Which major factors contribute to test outcomes?
 
 
 
+# ภาพโปรดจคโดย ภาพรวม : 
+
+
+
+
+
+![Screenshot_20230301_112209](https://user-images.githubusercontent.com/96861429/222374868-c500fb68-176f-4cd6-8e69-2fe96cf4b323.png)
+
+
+
+
+
+
+
 
 
 
