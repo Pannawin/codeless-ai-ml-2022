@@ -26,7 +26,7 @@ Which major factors contribute to test outcomes?
 #ข้อมูลทั่วไปของ Data ชุดนี้ : 
 
 
-   นักเรียนชายมีจำนวนทั้งหมด 517 นักเรียนหญิง 483 นักเรียนชาย มีจำนวนมากกว่านักเรียนหญิง 34 คน
+   นักเรียนชายมีจำนวนทั้งหมด 517 นักเรียนหญิง 483 นักเรียนชาย นักเรียนมีจำนวนมากกว่านักเรียนหญิง 34 คน
 ![Screenshot 2023-03-02 152047](https://user-images.githubusercontent.com/96861429/222371680-f29c38f3-88e7-4132-8ed9-70f9432b25ae.png)
 
 
@@ -40,6 +40,13 @@ Which major factors contribute to test outcomes?
 
 จำนวนเชื้อชาติต่างๆ
 ![Screenshot 2023-03-02 152751](https://user-images.githubusercontent.com/96861429/222373273-35de74ee-a2f4-4b27-9f34-4b575a0306cc.png)
+
+
+
+
+
+
+
 
 
 
