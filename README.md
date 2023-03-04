@@ -95,7 +95,7 @@ Which major factors contribute to test outcomes?
 
 
 
-ผลลัพท์ การคาดคะเเนนต่างๆของเเต่ละโมเดล (คะเเนนวิชา writing
+ผลลัพท์ การคาดคะเเนนต่างๆของเเต่ละโมเดล (คะเเนนวิชา writing)
 
 Simple regresstion tree = 0.9444
 
@@ -107,15 +107,26 @@ Random Forest (regression)=0.942
 
 
 
+# การคาดเดา ผลคะเเนนรวม : 
 
 
 
 
 
+![Screenshot 2023-03-04 133130](https://user-images.githubusercontent.com/96861429/222880657-a21a8c4e-d902-40d6-877d-6702fe30a5c3.png)
 
 
 
+![Untitled5](https://user-images.githubusercontent.com/96861429/222880760-4498f7dc-5b01-4e72-90ba-e0e8c3330d15.png)
 
+
+ผลลัพท์ การคาดคะเเนนรวม
+
+Simple regresstion tree = 1  (เเม่นยำที่สุด)
+
+Gradient boosted tree = 0.997
+
+Random Forest (regression)=  0.993
 
 
 
