@@ -43,7 +43,7 @@ Which major factors contribute to test outcomes?
 
 
 
-# ภาพโปรดจคโดย ภาพรวม : 
+# ภาพโปรเจคโดย ภาพรวม : 
 
 
 
@@ -53,7 +53,53 @@ Which major factors contribute to test outcomes?
 
 
 
+# การเตรียมข้อมูล : 
 
+
+
+
+
+![Screenshot 2023-03-04 132659](https://user-images.githubusercontent.com/96861429/222879846-406bbb5f-db56-4991-a7d3-a74b729d2625.png)
+
+
+
+ใช้ node math formula ทำการรวมคะเเนนทั้ง 3 วิชา เพื่อให้ได้ค่าคะเเนนรวม
+
+
+
+
+
+
+![Screenshot 2023-03-04 132824](https://user-images.githubusercontent.com/96861429/222879913-28f75fdd-431a-4d98-bad1-5ff3027df028.png)
+
+เปลี่ยนชุดข้อมูลตัวอักษรให้เป็นตัวเลข (เพศ เชื้อชาติ การเข้าคอร์สเตรียมสอบ การศึกษาของผู้ปกครอง)
+
+
+
+# การคาดเดา ผลคะเเนน วิชา Writing โดยใช้โมเดลต่างๆ  : 
+
+ใช้ column filter ในการเอาคะเเนนวิชาอื่นออกก่อน
+
+
+
+
+
+
+
+![Screenshot 2023-03-04 133352](https://user-images.githubusercontent.com/96861429/222880205-819d4c47-dd2d-4289-a03c-83e9f088091c.png)
+
+
+
+
+![Untitled3](https://user-images.githubusercontent.com/96861429/222880421-257ddbda-4a85-44f8-b12b-4725cee924ba.png)
+
+
+
+ผลลัพท์ การคาดคะเเนนต่างๆของเเต่ละโมเดล (คะเเนนวิชา writing
+
+Simple regresstion tree = 0.9444
+Gradient boosted tree = 0.97
+Random Forest (regression)=0.942
 
 
 
