@@ -47,9 +47,11 @@ Which major factors contribute to test outcomes?
 
 
 
+![Screenshot 2023-03-02 153626](https://user-images.githubusercontent.com/96861429/222879549-36deeb86-c9d6-4456-878f-15878114bac8.png)
 
 
-![Screenshot_20230301_112209](https://user-images.githubusercontent.com/96861429/222374868-c500fb68-176f-4cd6-8e69-2fe96cf4b323.png)
+
+
 
 
 
