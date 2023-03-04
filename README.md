@@ -98,7 +98,11 @@ Which major factors contribute to test outcomes?
 ผลลัพท์ การคาดคะเเนนต่างๆของเเต่ละโมเดล (คะเเนนวิชา writing
 
 Simple regresstion tree = 0.9444
+
+
 Gradient boosted tree = 0.97
+
+
 Random Forest (regression)=0.942
 
 
