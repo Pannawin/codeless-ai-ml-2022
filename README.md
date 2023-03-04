@@ -100,7 +100,7 @@ Which major factors contribute to test outcomes?
 Simple regresstion tree = 0.9444
 
 
-Gradient boosted tree = 0.97
+Gradient boosted tree = 0.97 (เเม่นยำที่สุด)
 
 
 Random Forest (regression)=0.942
@@ -127,6 +127,20 @@ Simple regresstion tree = 1  (เเม่นยำที่สุด)
 Gradient boosted tree = 0.997
 
 Random Forest (regression)=  0.993
+
+
+
+# สรุป : 
+ตัวเเปรสำคัญ ที่มีผลคือ 
+
+การเข้าคอร์สเตรียมสอบ เพศ
+
+เพศชายจะทำคะะเนนสอบ วิชาคณิตศาสตร์ เกิณเกณฑ์ 85 คะเเนน มีจำนวนมากกว่าเพศหญิง
+![Screenshot 2023-03-02 095736](https://user-images.githubusercontent.com/96861429/222880953-d7e67a18-22fa-4f21-929a-f2f468bf5ef6.png)
+
+
+เเต่กลับกันผู้หญิงจะทำคะเเนน วิชา Reading กับ Writing ได้คะเเนนเกินเกณฑ์ 85 คะเเนน มากกว่าผู้ชาย
+
 
 
 
