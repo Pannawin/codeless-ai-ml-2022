@@ -165,7 +165,10 @@ Random Forest (regression)=  0.993
 ![Screenshot 2023-03-02 095931](https://user-images.githubusercontent.com/96861429/222939197-e07ee110-53fb-4b8d-9226-0bdbb7714d89.png)
 
 วิชา reading
-
+.
+.
+.
+.
 
 ![Screenshot 2023-03-02 100331](https://user-images.githubusercontent.com/96861429/222939572-ded7d066-64db-401e-bcdc-440c12a4333d.png)
 จำนวน ผู้เข้าคอร์สเตรียมสอบมีน้อยกว่า เเต่กลับมีผู้ สามารถทำคะเเนนผ่านเกินเกณฑ์จำนวนมากกว่า
