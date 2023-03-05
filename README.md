@@ -147,5 +147,9 @@ Random Forest (regression)=  0.993
 
 
 
+![Screenshot 2023-03-02 095859](https://user-images.githubusercontent.com/96861429/222939195-360f4386-6fa0-428a-a264-ea783911de08.png)
+วิชา writing
 
 
+![Screenshot 2023-03-02 095931](https://user-images.githubusercontent.com/96861429/222939197-e07ee110-53fb-4b8d-9226-0bdbb7714d89.png)
+วิชา reading
