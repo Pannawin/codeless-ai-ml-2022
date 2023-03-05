@@ -43,6 +43,8 @@ Which major factors contribute to test outcomes?
 
 
 
+
+
 # ภาพโปรเจคโดย ภาพรวม : 
 
 
@@ -55,8 +57,11 @@ Which major factors contribute to test outcomes?
 
 # การเตรียมข้อมูล : 
 
+![Screenshot 2023-03-05 095841](https://user-images.githubusercontent.com/96861429/222939297-648315bc-0e9c-4459-a5f7-7022acb799be.png)
 
 
+
+หาคาเฉลี่ยเเต่ละวิชา
 
 
 ![Screenshot 2023-03-04 132659](https://user-images.githubusercontent.com/96861429/222879846-406bbb5f-db56-4991-a7d3-a74b729d2625.png)
