@@ -61,7 +61,13 @@ Which major factors contribute to test outcomes?
 
 
 
-หาคาเฉลี่ยเเต่ละวิชา
+หาคาเฉลี่ยเเต่ละวิชา 
+
+คณิตศาสตร์ 66.5
+
+วิชาการอ่าน 70
+
+วิชาการเขียน 68.5
 
 
 ![Screenshot 2023-03-04 132659](https://user-images.githubusercontent.com/96861429/222879846-406bbb5f-db56-4991-a7d3-a74b729d2625.png)
