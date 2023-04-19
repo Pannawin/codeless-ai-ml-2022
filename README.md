@@ -179,6 +179,8 @@ Random Forest (regression)=  0.993
 
 ![Screenshot 2023-03-02 100331](https://user-images.githubusercontent.com/96861429/222939572-ded7d066-64db-401e-bcdc-440c12a4333d.png)
 จำนวน ผู้เข้าคอร์สเตรียมสอบมีน้อยกว่า ( ผู้เข้าคอร์สเตรียมสอบ 335คน) เเต่กลับมีจำนวนคนสามารถทำคะเเนนผ่านเกินเกณฑ์จำนวนมากกว่า(เกิน 250 คะเเนนรวม)
+
+# จำนวนผู้ผ่านคะเเนนสอบเกิน 250 คน : 
 ![Screenshot 2023-03-05 100523](https://user-images.githubusercontent.com/96861429/222939668-d9a2197a-c732-45ee-8fab-d5f221491ee9.png)
 
 
